@@ -5,7 +5,7 @@ export default function Home() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ramya Gopinath - Portrait Artist</title>
+    <title>Ramya Gopinath - Art Entrepreneur</title>
     <style>
         * {
             margin: 0;
@@ -253,7 +253,7 @@ export default function Home() {
 
     <section id="home" class="hero">
         <div class="container">
-            <h1>Portrait Artist</h1>
+            <h1>Art Entrepreneur</h1>
             <p>Bringing personalities to life through mixed-style portraits that capture the essence of every individual</p>
             <a href="#portfolio" class="cta-button">View My Work</a>
         </div>
